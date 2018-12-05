@@ -1,4 +1,4 @@
-= This is the title
+= Hello World
 
 This is the first sentence used as description
 
